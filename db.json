@@ -17,7 +17,8 @@
       "MinGradeLevel": 7,
       "MaxGradeLevel": 12,
       "QuizCount": 1,
-      "Rating": 75
+      "Rating": 75,
+      "DoLookup": false
     },
     {
       "id": "dhEChK3Uysf0xB0PNm6j",
@@ -36,7 +37,23 @@
       "MinGradeLevel": 5,
       "MaxGradeLevel": 9,
       "QuizCount": 1,
-      "Rating": 92
+      "Rating": 92,
+      "DoLookup": false
+    },
+    {
+      "id": "Zt10Ib79wMyC8svt4Q0e",
+      "ISBN_13": "9780385474542",
+      "CoverImagePath": [
+        "https://images-na.ssl-images-amazon.com/images/I/61l%2BVmohEOL._SX322_BO1,204,203,200_.jpg"
+      ],
+      "Title": "Things Fall Apart",
+      "Language": "English",
+      "ContentPath": [],
+      "MinGradeLevel": 7,
+      "MaxGradeLevel": 12,
+      "QuizCount": 0,
+      "Rating": 60,
+      "DoLookup": true
     }
   ],
   "wakaru_allquizzes": [
